@@ -25,13 +25,13 @@ Materials: [ILIAS](http://ilias.gesis.org/) and [GitHub](https://github.com/gesi
 
 | # | Notebook                                     | Launch |
 |---|----------------------------------------------|--------|
-| 1 | Introduction to Python and Jupyter notebooks | [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/methods_seminar_2020_network_science/master?filepath=code%2F0_preparation%2F00_preparation.ipynb) |
-| 2 | Variables, Strings, Numbers and Operators    | [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/methods_seminar_2020_network_science/master?filepath=code%2F0_preparation%2F01_var_string_num.ipynb) |
-| 3 | Lists and Tuples                             | [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/methods_seminar_2020_network_science/master?filepath=code%2F0_preparation%2F02_lists_tuples.ipynb) |
-| 4 | Dictionaries                                 | [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/methods_seminar_2020_network_science/master?filepath=code%2F0_preparation%2F03_dictionaries.ipynb) |
-| 5 | If statement                                 | [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/methods_seminar_2020_network_science/master?filepath=code%2F0_preparation%2F04_if_statements.ipynb) |
-| 6 | Functions                                    | [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/methods_seminar_2020_network_science/master?filepath=code%2F0_preparation%2F05_introducing_functions.ipynb) |
-| 7 | More functions                               | [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/methods_seminar_2020_network_science/master?filepath=code%2F0_preparation%2F06_more_functions.ipynb) |
+| 0 | Introduction to Python and Jupyter notebooks | [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/methods_seminar_2020_network_science/master?filepath=code%2F0_preparation%2F00_preparation.ipynb) |
+| 1 | Variables, Strings, Numbers and Operators    | [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/methods_seminar_2020_network_science/master?filepath=code%2F0_preparation%2F01_var_string_num.ipynb) |
+| 2 | Lists and Tuples                             | [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/methods_seminar_2020_network_science/master?filepath=code%2F0_preparation%2F02_lists_tuples.ipynb) |
+| 3 | Dictionaries                                 | [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/methods_seminar_2020_network_science/master?filepath=code%2F0_preparation%2F03_dictionaries.ipynb) |
+| 4 | If statement                                 | [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/methods_seminar_2020_network_science/master?filepath=code%2F0_preparation%2F04_if_statements.ipynb) |
+| 5 | Functions                                    | [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/methods_seminar_2020_network_science/master?filepath=code%2F0_preparation%2F05_introducing_functions.ipynb) |
+| 6 | More functions                               | [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/methods_seminar_2020_network_science/master?filepath=code%2F0_preparation%2F06_more_functions.ipynb) |
 
 ####  Day 1:
 | # | Notebook                                         | Launch |
