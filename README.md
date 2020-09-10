@@ -17,6 +17,7 @@ Materials: ILIAS and GitHub
 
 ### Exercises
 
+
 #### Preparation (warm-up)
 
 | # | Notebook                                     | Launch |
@@ -38,14 +39,3 @@ Materials: ILIAS and GitHub
 | # | Notebook                                     | Launch |
 |---|----------------------------------------------|--------|
 | 1 | xxx |        |
-
-####  Day 3:
-| # | Notebook                                     | Launch |
-|---|----------------------------------------------|--------|
-| 1 | xxx |        |
-
-####  Day 4:
-| # | Notebook                                     | Launch |
-|---|----------------------------------------------|--------|
-| 1 | xxx |        |
-
