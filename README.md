@@ -17,9 +17,25 @@ Materials: [ILIAS](http://ilias.gesis.org/) and [GitHub](https://github.com/gesi
 
 ---
 
-### Exercises
+### Run everyhting in the cloud
 
 ---
+
+You can open the whole repository and work with it in the cloud.\
+All your modifications and new files will be stored until you delete them.\
+*Note: You need an account to login first. Just click the button and follow the instructions from "You are not yet registered?"*
+
+[![Binder](https://notebooks.gesis.org/services/binder/badge_logo.svg)](https://notebooks.gesis.org/services/binder/v2/gh/gesiscss/methods_seminar_2020_network_science/master)
+
+
+---
+
+### Exercises (one-by-one)
+
+---
+
+You can also opt for working on individual exercises only.\
+However, all your modifications will be lost after a few minutes of inactivity.
 
 #### Preparation (warm-up)
 
