@@ -1,0 +1,6 @@
+name: network-science
+dependencies:
+  - python=3.8
+  - pip
+  - pip:
+    - -r file:requirements.txt
