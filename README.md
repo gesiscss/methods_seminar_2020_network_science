@@ -52,24 +52,24 @@ However, all your modifications will be lost after a few minutes of inactivity.
 ####  Day 1:
 | # | Notebook                                         | Launch |
 |---|--------------------------------------------------|--------|
-| 1 | Essential Python functionality & data structures |        |
-| 2 | From data to networks and back                   |        |
+| 1 | Essential Python functionality & data structures | (will be uploaded on Monday, Sep. 21) |
+| 2 | From data to networks and back                   | (will be uploaded on Monday, Sep. 21) |
 
 ####  Day 2:
 | # | Notebook                                     | Launch |
 |---|----------------------------------------------|--------|
-| 1 | Network construction & Visualization         |        |
-| 2 | Node centrality                              |        |
+| 1 | Network construction & Visualization         | (will be uploaded on Tuesday, Sep. 22) |
+| 2 | Node centrality                              | (will be uploaded on Tuesday, Sep. 22) |
 
 
 ####  Day 3:
 | # | Notebook                                     | Launch |
 |---|----------------------------------------------|--------|
-| 1 | Brokerage                                    |        |
-| 2 | Closure                                      |        |
+| 1 | Brokerage                                    | (will be uploaded on Wednesday, Sep. 23) |
+| 2 | Closure                                      | (will be uploaded on Wednesday, Sep. 23) |
 
 ####  Day 4:
 | # | Notebook                                     | Launch |
 |---|----------------------------------------------|--------|
-| 1 | Community detection                          |        |
-| 2 | Hypothesis testing on networks               |        |
+| 1 | Community detection                          | (will be uploaded on Thursday, Sep. 24) |
+| 2 | Hypothesis testing on networks               | (will be uploaded on Thursday, Sep. 24) |
