@@ -1,0 +1,7 @@
+name: network-science
+dependencies:
+  - python>=3.8
+  - anaconda
+  - pip
+  - pip:
+    - -r file:requirements.txt
