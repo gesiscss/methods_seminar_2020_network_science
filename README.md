@@ -15,6 +15,7 @@ Venue: Virtual (ZOOM)
 
 Materials: [ILIAS](http://ilias.gesis.org/) and [GitHub](https://github.com/gesiscss/methods_seminar_2020_network_science)
 
+---
 
 ### Exercises (one-by-one)
 
@@ -36,26 +37,26 @@ However, all your modifications will be lost after a few minutes of inactivity.
 | 6 | More functions                               | [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/methods_seminar_2020_network_science/master?filepath=code%2F0_preparation%2F06_more_functions.ipynb) |
 
 ####  Day 1:
-| # | Notebook                                         | Launch |
-|---|--------------------------------------------------|--------|
-| 1 | Essential Python functionality & data structures | (will be uploaded on Monday, Sep. 21) |
-| 2 | From data to networks and back                   | (will be uploaded on Monday, Sep. 21) |
+| # | Notebook                                          | Launch Demo | Launch Exercise | Launch Solution 
+|---|---------------------------------------------------|-------------|-----------------|-----------------
+| 1 | Essential Python functionality & data structures  <td colspan=3>(will be uploaded on Monday, Sep. 21)
+| 2 | From data to networks and back                    <td colspan=3>(will be uploaded on Monday, Sep. 21) 
 
 ####  Day 2:
-| # | Notebook                                     | Launch |
-|---|----------------------------------------------|--------|
-| 1 | Network construction & Visualization         | (will be uploaded on Tuesday, Sep. 22) |
-| 2 | Node centrality                              | (will be uploaded on Tuesday, Sep. 22) |
+| # | Notebook                                     | Launch Demo | Launch Exercise | Launch Solution |
+|---|----------------------------------------------|-------------|-----------------|-----------------|
+| 1 | Network construction & Visualization         <td colspan=3>(will be uploaded on Tuesday, Sep. 22)
+| 2 | Node centrality                              <td colspan=3>(will be uploaded on Tuesday, Sep. 22)
 
 
 ####  Day 3:
-| # | Notebook                                     | Launch |
-|---|----------------------------------------------|--------|
-| 1 | Brokerage                                    | (will be uploaded on Wednesday, Sep. 23) |
-| 2 | Closure                                      | (will be uploaded on Wednesday, Sep. 23) |
+| # | Notebook                                     | Launch Demo | Launch Exercise | Launch Solution |
+|---|----------------------------------------------|-------------|-----------------|-----------------|
+| 1 | Brokerage                                     <td colspan=3>(will be uploaded on Wednesday, Sep. 23) 
+| 2 | Closure                                       <td colspan=3>(will be uploaded on Wednesday, Sep. 23) 
 
 ####  Day 4:
-| # | Notebook                                     | Launch |
-|---|----------------------------------------------|--------|
-| 1 | Community detection                          | (will be uploaded on Thursday, Sep. 24) |
-| 2 | Hypothesis testing on networks               | (will be uploaded on Thursday, Sep. 24) |
+| # | Notebook                                     | Launch Demo | Launch Exercise | Launch Solution |
+|---|----------------------------------------------|-------------|-----------------|-----------------|
+| 1 | Community detection                           <td colspan=3>(will be uploaded on Thursday, Sep. 24) 
+| 2 | Hypothesis testing on networks                <td colspan=3>(will be uploaded on Thursday, Sep. 24)
