@@ -1,4 +1,4 @@
-# GESIS Methods Seminar 2020
+# 1st Virtual GESIS Methods Seminar 2020
 ## Chapter: Introduction to Social Network Science with Python
 
 ### Instructors:
