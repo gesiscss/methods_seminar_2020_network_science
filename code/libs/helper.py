@@ -3,7 +3,7 @@ __author__ = 'lisette.espin'
 ##########################################################################################
 # Dependencies
 ##########################################################################################
-
+import os
 import numpy as np
 import networkx as nx
 from scipy.sparse import csr_matrix
@@ -19,7 +19,23 @@ def test():
     '''
     print("hello world")
     
-    
+##########################################################################################
+# Files I/O
+##########################################################################################
+def create_folder(path):
+    '''
+    Creates a folder (from path) if it does not exist.
+    '''
+    try:
+        if not os.path.exists(path): # if the folder does not exist
+            os.makedirs(path)        # it creates it.
+            print('{} was succesfully created!'.format(path))
+        else:
+            print('{} already exists.'.format(path))
+    except Exception as ex:
+        print(ex)                    # in case of error, this line will show you what happened.
+
+        
 ##########################################################################################
 # Numpy array helpers
 ##########################################################################################
