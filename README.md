@@ -21,8 +21,8 @@ Materials: [ILIAS](http://ilias.gesis.org/) and [GitHub](https://github.com/gesi
 
 ---
 
-You can also opt for working on individual exercises only.\
-However, all your modifications will be lost after a few minutes of inactivity.
+You can opt for working on individual exercises only.\
+However, all your modifications will be lost after a few minutes of inactivity (or if you close the notebook).
 
 #### Preparation (warm-up)
 
