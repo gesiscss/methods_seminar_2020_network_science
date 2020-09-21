@@ -37,7 +37,6 @@ However, all your modifications will be lost after a few minutes of inactivity (
 | 6 | More functions                               | [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/methods_seminar_2020_network_science/master?filepath=code%2F0_preparation%2F06_more_functions.ipynb) |
 
 ####  Day 1:
-(will be pushed at the end of the class on Monday, Sep. 21)
 | # | Notebook                                          |  Demo |  Exercise | Solution |
 |---|---------------------------------------------------|-------|-----------|----------|
 | 1 | Essential Python functionality & data structures  |[![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/methods_seminar_2020_network_science/master?filepath=code%2F1_monday%2F11_essential_python_functionality_%26_data_structures_demo.ipynb)| [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/methods_seminar_2020_network_science/master?filepath=code%2F1_monday%2F11_essential_python_functionality_%26_data_structures_exercise.ipynb) | [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/methods_seminar_2020_network_science/master?filepath=code%2F1_monday%2F11_essential_python_functionality_%26_data_structures_exercise_solution.ipynb) |
