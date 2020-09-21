@@ -38,29 +38,29 @@ However, all your modifications will be lost after a few minutes of inactivity (
 
 ####  Day 1:
 (will be pushed at the end of the class on Monday, Sep. 21)
-| # | Notebook                                          |  Demo |  Exercise |
-|---|---------------------------------------------------|-------------|-----------------|
-| 1 | Essential Python functionality & data structures  |||
-| 2 | From data to networks and back                    |||
+| # | Notebook                                          |  Demo |  Exercise | Solution |
+|---|---------------------------------------------------|-------|-----------|----------|
+| 1 | Essential Python functionality & data structures  |[![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/methods_seminar_2020_network_science/master?filepath=code%2F1_monday%2F11_essential_python_functionality_&_data_structures_demo.ipynb) | [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/methods_seminar_2020_network_science/master?filepath=code%2F1_monday%2F11_essential_python_functionality_&_data_structures_exercise.ipynb) | [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/methods_seminar_2020_network_science/master?filepath=code%2F1_monday%2F11_essential_python_functionality_&_data_structures_exercise_solution.ipynb) |
+| 2 | From data to networks and back                    |[![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/methods_seminar_2020_network_science/master?filepath=code%2F1_monday%2F12_from_data_to_networks_and_back_demo.ipynb) | [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/methods_seminar_2020_network_science/master?filepath=code%2F1_monday%2F12_from_data_to_networks_and_back_exercise.ipynb) | [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/methods_seminar_2020_network_science/master?filepath=code%2F1_monday%2F12_from_data_to_networks_and_back_exercise_solution.ipynb)|
 
 ####  Day 2:
 (will be pushed at the end of the class on Tuesday, Sep. 22)
-| # | Notebook                                     |  Demo |  Exercise |
-|---|----------------------------------------------|-------------|-----------------|
-| 1 | Network construction & Visualization         |||
-| 2 | Node centrality                              |||
+| # | Notebook                                          |  Demo |  Exercise | Solution |
+|---|---------------------------------------------------|-------|-----------|----------|
+| 1 | Network construction & Visualization         | - | - | - |
+| 2 | Node centrality                              | - | - | - |
 
 
 ####  Day 3:
 (will be pushed at the end of the class on Wednesday, Sep. 23) 
-| # | Notebook                                     |  Demo |  Exercise |
-|---|----------------------------------------------|-------------|-----------------|
-| 1 | Brokerage                                    |||
-| 2 | Closure                                      |||
+| # | Notebook                                          |  Demo |  Exercise | Solution |
+|---|---------------------------------------------------|-------|-----------|----------|
+| 1 | Brokerage and Closure                             | - | - | - |
+| 2 | Cohesion                                          | - | - | - |
 
 ####  Day 4:
 (will be pushed at the end of the class on Thursday, Sep. 24)
-| # | Notebook                                     |  Demo |  Exercise |
-|---|----------------------------------------------|-------------|-----------------|
-| 1 | Community detection                          |||
-| 2 | Hypothesis testing on networks               |||
+| # | Notebook                                          |  Demo |  Exercise | Solution |
+|---|---------------------------------------------------|-------|-----------|----------|
+| 1 | Community detection                          | - | - | - |
+| 2 | Hypothesis testing on networks               | - | - | - |
