@@ -43,11 +43,10 @@ However, all your modifications will be lost after a few minutes of inactivity (
 | 2 | From data to networks and back                    |[![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/methods_seminar_2020_network_science/master?filepath=code%2F1_monday%2F12_from_data_to_networks_and_back_demo.ipynb) | [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/methods_seminar_2020_network_science/master?filepath=code%2F1_monday%2F12_from_data_to_networks_and_back_exercise.ipynb) | [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/methods_seminar_2020_network_science/master?filepath=code%2F1_monday%2F12_from_data_to_networks_and_back_exercise_solution.ipynb)|
 
 ####  Day 2:
-(will be pushed at the end of the class on Tuesday, Sep. 22)
 | # | Notebook                                          |  Demo |  Exercise | Solution |
 |---|---------------------------------------------------|-------|-----------|----------|
-| 1 | Network construction & Visualization         | - | - | - |
-| 2 | Node centrality                              | - | - | - |
+| 1 | Network construction & Visualization         |[![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/methods_seminar_2020_network_science/master?filepath=code%2F2_tuesday%2F21_network_construction_and_visualization_demo.ipynb) | [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/methods_seminar_2020_network_science/master?filepath=code%2F2_tuesday%2F21_network_construction_and_visualization_exercise.ipynb) | [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/methods_seminar_2020_network_science/master?filepath=code%2F2_tuesday%2F21_network_construction_and_visualization_exercise_solutions.ipynb)|
+| 2 | Node centrality                              | [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/methods_seminar_2020_network_science/master?filepath=code%2F2_tuesday%2F22_node_centrality_demo.ipynb) | [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/methods_seminar_2020_network_science/master?filepath=code%2F2_tuesday%2F22_node_centrality_exercise.ipynb) | [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/methods_seminar_2020_network_science/master?filepath=code%2F2_tuesday%2F22_node_centrality_exercise_solution.ipynb)|
 
 
 ####  Day 3:
