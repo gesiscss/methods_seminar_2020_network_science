@@ -50,11 +50,10 @@ However, all your modifications will be lost after a few minutes of inactivity (
 
 
 ####  Day 3:
-(will be pushed at the end of the class on Wednesday, Sep. 23) 
 | # | Notebook                                          |  Demo |  Exercise | Solution |
 |---|---------------------------------------------------|-------|-----------|----------|
-| 1 | Brokerage and Closure                             | - | - | - |
-| 2 | Cohesion                                          | - | - | - |
+| 1 | Brokerage and Closure                             | [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/methods_seminar_2020_network_science/master?filepath=code%2F3_wednesday%2F31_brokerage_and_closure_demo.ipynb) | [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/methods_seminar_2020_network_science/master?filepath=code%2F3_wednesday%2F31_brokerage_and_closure_exercise.ipynb) | [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/methods_seminar_2020_network_science/master?filepath=code%2F3_wednesday%2F31_brokerage_and_closure_exercise_solutions.ipynb) |
+| 2 | Cohesion                                          | [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/methods_seminar_2020_network_science/master?filepath=code%2F3_wednesday%2F32_cohesion_demo.ipynb) | [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/methods_seminar_2020_network_science/master?filepath=code%2F3_wednesday%2F32_cohesion_exercise.ipynb) | [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/methods_seminar_2020_network_science/master?filepath=code%2F3_wednesday%2F32_cohesion_exercise_solutions.ipynb) | 
 
 ####  Day 4:
 (will be pushed at the end of the class on Thursday, Sep. 24)
